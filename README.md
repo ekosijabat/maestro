@@ -9,12 +9,12 @@
 - Framework Laravel (v 5.8)
 
 
-Package that I use for this project : 
+Package that I used for this project : 
 - mews/captcha : to create captcha (for security purpose)
 - mailtrap : to send forget password email link
 
 Library that I used for frontend :
-- lolibox : to create notification after user copied promo code to clipboard
+- lobibox : to create notification after user copied promo code to clipboard
 
 
 
